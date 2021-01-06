@@ -1,0 +1,20 @@
+export const SET_AUTHENTICATED = 'SET_AUTHENTICATED';
+export const SET_UNAUTHENTICATED = "SET_UNAUTHENTICATED";
+export const SET_USER = 'SET_USER'
+export const LOADING_USER = 'LOADING_USER'
+
+export const SET_ERRORS = 'SET_ERRORS'
+export const LOADING_UI = 'LOADING_UI'
+export const CLEAR_ERRORS = 'CLEAR_ERRORS';
+
+export const SET_SCREENS = 'SET_SCREENS'
+export const SET_SCREEN = 'SET_SCREEN'
+export const LOADING_DATA = 'LOADING_DATA'
+export const LIKE_SCREEN = 'LIKE_SCREEN'
+export const UNLIKE_SCREEN = 'UNLIKE_SCREEN'
+export const DELETE_SCREEN = 'DELETE_SCREEN'
+
+export const POST_SCREEN = 'POST_SCREEN'
+export const STOP_LOADING_UI = 'STOP_LOADING_UI'
+
+export const SUBMIT_COMMENT = 'SUBMIT_COMMENT'
